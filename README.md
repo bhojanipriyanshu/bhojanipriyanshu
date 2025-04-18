@@ -1,55 +1,35 @@
+### 👋 Hi, I'm Priyanshu Bhojani  
+🚀 Aspiring Frontend Developer | React.js & TypeScript Enthusiast | Flutter Developer  
 
-### **👋 Hi, I'm Priyanshu Bhojani**  
-🚀 Passionate Computer Engineering student | Web & Mobile Developer | Backend Enthusiast  
+📍 Rajkot, Gujarat, India  
+📧 Email: bhojanipriyansh@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/priyanshu-bhojani-0b662526a) | [GitHub](https://github.com/bhojanipriyanshu)  
 
-📍 **Rajkot, Gujarat, India**  
-📧 **Email:** bhojanipriyansh@gmail.com  
-🔗 **LinkedIn:** [Priyanshu Bhojani](https://www.linkedin.com/in/priyanshu-bhojani)  
+I'm Priyanshu Bhojani, a Computer Engineering student at Marwadi University with a strong foundation in web and mobile app development. Currently interning at **HYGO Venture**, where I'm building responsive websites using **React.js** and gaining practical experience with JavaScript and modern frontend frameworks. I previously interned at **Logistic Infotech Pvt Ltd**, where I worked with **PHP** for backend development, and at **Relution**, where I gained hands-on experience with **Python** and ERP integration using Odoo.  
 
-Hi, I’m Priyanshu Bhojani, a Computer Engineering student at Marwadi University with a **CGPA of 7.36**. I specialize in **web and mobile app development** and have hands-on experience working with backend systems, databases, and cloud computing.  
-
-I've interned at **Relution** (Python & ERP) and **Logistic Infotech** (PHP backend), where I worked on projects like:  
-- 📊 **Expense Tracker** – A React-based web app for managing finances.  
-- 📱 **IPO Insides** – A Flutter-based IPO information aggregator.  
-
-I'm always eager to learn and explore **new technologies** to build innovative and user-friendly solutions.  
-
-### **💻 Technical Skills**  
-- **Frontend:** HTML, CSS, JavaScript, React.js  
-- **Backend:** PHP, Java, Python, Node.js  
-- **Databases:** MySQL, MongoDB, Oracle Database  
+### 💻 Technical Skills  
+- **Frontend:** HTML, CSS, JavaScript, React.js, TypeScript  
+- **Backend:** PHP, Python, Java  
 - **Mobile Development:** Flutter, Dart  
-- **Other:** AWS Cloud, Data Pipelines, ETL, RESTful APIs  
+- **Databases:** MySQL, MongoDB  
+- **Other Tools:** Git, AWS, REST APIs  
 
-### **🌱 What I'm Learning**  
-- **Cloud Computing & DevOps** (AWS, Docker, Kubernetes)  
-- **Advanced Backend Development**  
-- **Data Engineering & AI Integration**  
+### 🛠 Projects  
+- **HYGO Health Care:** A modern, responsive React + TypeScript website for a healthcare brand.  
+- **Expense Tracker:** A React-based app to manage personal finances and generate reports.  
+- **IPO Insides:** A Flutter mobile app that aggregates IPO details and market insights.  
 
-### **💼 Experience**  
-#### **Relution (Intern) | May 2023 - June 2023**  
-- Worked on **Python programming** and **data manipulation** using PyCharm.  
-- Gained experience in **ERP integration** with **Odoo**.  
+### 📜 Certifications  
+- AWS Cloud Practitioner Essentials  
+- Oracle Database Management  
+- CISCO: Switching, Routing & Wireless Essentials  
+- Infosys Springboard: Real World Projects with Flutter  
+- Coursera: Python and Data Structures  
+- Energy Swaraj Foundation: Energy Literacy  
 
-#### **Logistic Infotech Pvt Ltd (Intern) | June 2024 - July 2024**  
-- Developed **backend APIs** using **PHP** and optimized database performance.  
-- Built **RESTful APIs** to ensure efficient communication between frontend and backend systems.  
+### 🌱 Currently Exploring  
+- Cloud Computing & DevOps (AWS, Docker)  
+- Advanced Backend Development  
+- Data Engineering & AI Integrations  
 
-### **📜 Certifications**  
-✔ **AWS Cloud Practitioner Essentials**  
-✔ **Oracle Database Management**  
-✔ **Cisco: Switching, Routing & Wireless Essentials**  
-✔ **Infosys Springboard: Real-world Projects with Flutter**  
-
-### **💞️ Looking to Collaborate On**  
-- **Full-stack web & mobile applications**  
-- **Cloud-based projects**  
-- **Open-source contributions**  
-
-### **📫 How to Reach Me**  
-📩 **Email:** bhojanipriyansh@gmail.com  
-🔗 **LinkedIn:** [Priyanshu Bhojani](https://www.linkedin.com/in/priyanshu-bhojani)  
-
-
-
-
+📫 Reach out to collaborate, connect, or chat tech!
